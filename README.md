@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-I'm a software engineer passionate about building innovative and user-friendly applications.💻
-My expertise lies in JavaScript, Java and cloud technologies. ☁️ 
-I enjoy tackling challenging problems and creating efficient solutions.
+💻 I'm a software engineer passionate about building innovative and user-friendly applications.<br>
+☁️ My expertise lies in JavaScript, Java and cloud technologies. <br>
+😎 I enjoy tackling challenging problems and creating efficient solutions. <br>
 
 ✨ Let's connect! 🤝
 
