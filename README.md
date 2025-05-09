@@ -1,6 +1,10 @@
 # 💫 About Me:
-👯 I am seeking collaboration opportunities in React, Node.js, Java, Express, MongoDB, and MySQL.<br>🤝 I welcome assistance with MERN stack projects.<br>🌱 I am currently enhancing my skills in this technology stack.<br>💬 Please feel free to reach out to me regarding MERN stack development or Java.
 
+I'm a software engineer passionate about building innovative and user-friendly applications.💻
+My expertise lies in JavaScript, Java and cloud technologies. ☁️ 
+I enjoy tackling challenging problems and creating efficient solutions.
+
+✨ Let's connect! 🤝
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.imaginatory) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-sharma-501ab12a9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/_Illusionary_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_Imaginatory) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_imaginatory) 
