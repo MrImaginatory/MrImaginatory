@@ -1,3 +1,6 @@
+<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+
 # 💫 About Me:
 
 💻 I'm a software engineer passionate about building innovative and user-friendly applications.<br>
@@ -5,6 +8,12 @@
 😎 I enjoy tackling challenging problems and creating efficient solutions. <br>
 
 ✨ Let's connect! 🤝
+
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://media.tenor.com/1U4X7UqOcJ0AAAAC/notkuromiunu-center-div.gif" alt="Coding animation" style="max-width: 100%; max-height: 300px; border-radius: 8px;">
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr.imaginatory) 
