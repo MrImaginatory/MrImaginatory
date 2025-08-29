@@ -6,7 +6,7 @@
 
 ✨ Let's connect! 🤝
 
-![giphy](https://github.com/user-attachments/assets/b7dd915e-0394-442e-95e1-5a7ffa517ff1)
+![My Animation](https://github.com/MrImaginatory/MrImaginatory/raw/main/images/myreadme.gif)
 
 
 ## 🌐 Socials:
