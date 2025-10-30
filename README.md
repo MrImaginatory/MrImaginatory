@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-💻 I'm a software engineer passionate about building innovative and user-friendly applications.<br>
-☁️ My expertise lies in JavaScript, Java and cloud technologies. <br>
-😎 I enjoy tackling challenging problems and creating efficient solutions. <br>
-
-✨ Let's connect! 🤝
+Software Engineer | Problem Solver | Cloud Enthusiast <br>
+I build modern, scalable, and user-friendly applications using JavaScript, Java, and cloud technologies.<br>
+☕ Fueled by caffeine and curiosity, I turn complex ideas into clean, efficient code.<br>
+⚙️ Always learning, improving, and occasionally debugging things I swear worked yesterday.<br>
+✨ Let’s collaborate and make something awesome! 🤝
 
 ![My Animation](https://github.com/MrImaginatory/MrImaginatory/raw/main/images/myreadme.gif)
 
