@@ -94,6 +94,3 @@ I build modern, scalable, and user-friendly applications using JavaScript, Java,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrImaginatory&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-  ![Snake animation](https://github.com/MrImaginatory/MrImaginatory/blob/output/github-contribution-grid-snake.svg)
