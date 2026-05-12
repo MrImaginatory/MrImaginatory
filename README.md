@@ -93,4 +93,9 @@ I build modern, scalable, and user-friendly applications using JavaScript, Java,
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=MrImaginatory)
+
+---
+
 ![Snake animation](https://github.com/MrImaginatory/MrImaginatory/blob/output/github-contribution-grid-snake-dark.svg)
